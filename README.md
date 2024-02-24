@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Labeddit Frontend</h1>
+# Projeto Labeddit Frontend
 
 
 ## Link de Acesso
@@ -55,27 +55,6 @@ Para instalar as dependências no diretório do seu projeto, execute o seguinte 
 Para iniciar o aplicativo, execute o seguinte comando:
 
 - npm run dev
-
-
-## Protótipo
-
-O Design de app mobile first foi fornecido pela Labenu, se preferir acesso direto pelo Figma clique [aqui](https://www.figma.com/file/Ks2VBBhW0tN4p9g2ZtZtXE/Projeto-Integrador-Labeddit?type=design&node-id=0%3A1&mode=design&t=2qjhW6dWtWzmEM15-1), ou então acompanhe as imagens abaixo:
-
-### Login
-
-![Login](./src//assets/login.png)
-
-### Signup
-
-![Signup](./src/assets/signup.png)
-
-### Post
-
-![Post](./src/assets/post.png)
-
-### PostComment
-
-![PostComment](./src/assets/comment.png)
 
 ## Requisitos do Projeto
 
