@@ -19,19 +19,18 @@ export const MainLogin = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: flex-start;
 
   img.footer-line {
     display: flex;
     align-self: center;
+    margin: auto 0;
     margin-bottom: 16px;
-    // margin-top: 96px;
     }
   } 
 `
 
 export const Container = styled.div`
-  
   margin-top: 30px;
   display: flex;
   flex-direction: column;

@@ -11,20 +11,20 @@ import Loading from "../components/loading/Loading";
 import styled from "styled-components";
 
 export const MainLogin = styled.div`
-  width: 428px;
-  height: 926px;
-  background-color: #FFFFFF;
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-end;
+width: 428px;
+height: 926px;
+background-color: #FFFFFF;
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: flex-start;
 
   img.footer-line {
     display: flex;
     align-self: center;
+    margin: auto 0;
     margin-bottom: 16px;
-    margin-top: 96px;
     }
   } 
 `

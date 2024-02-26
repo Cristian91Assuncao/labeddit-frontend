@@ -1,13 +1,13 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  display: grid;
-  grid-template-columns: 1fr 1.5fr 1fr;
-  text-align: center;
+  display: flex;
+  // text-align: center;
   align-items: center;
-  height: 8vh;
+  justify-content: space-around;
+  height: 56px;
   width: 490px;
-  background: #ededed;
+  background-color: #ededed;
   margin-bottom: 24px;
   padding-top: 0;
 
