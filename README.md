@@ -13,7 +13,7 @@ https://projeto-labeddit-backend-u5bj.onrender.com
 
 # Deploy Labeddit Frontend
 
-https://strange-snow.surge.sh/
+https://venomous-nerve.surge.sh/
 
 
 ## Exemplo para login
