@@ -1,13 +1,20 @@
 # Projeto Labeddit Frontend
 
 
-## Link de Acesso
-
-Link vercel: 
-
 # Repositório Labeddit Backend
 
 https://github.com/Cristian91Assuncao/labeddit-backend
+
+
+# Deploy Labeddit Backend
+
+https://projeto-labeddit-backend-u5bj.onrender.com
+
+
+# Deploy Labeddit Frontend
+
+https://strange-snow.surge.sh/
+
 
 ## Exemplo para login
 
@@ -56,6 +63,7 @@ Para iniciar o aplicativo, execute o seguinte comando:
 
 - npm run dev
 
+
 ## Requisitos do Projeto
 
 - [✔️] Respeitar o layout do Figma
@@ -72,3 +80,6 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+Feito por <a href="https://github.com/Cristian91Assuncao" target="_blank">Cristian Assunção</a>
